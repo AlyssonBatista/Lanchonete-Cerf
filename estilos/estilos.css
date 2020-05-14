@@ -1,0 +1,36 @@
+body{
+    background-image: url("https://images6.alphacoders.com/712/712515.jpg");
+    font-family: arial;
+    background-size: auto 100vh;
+  } 
+  
+  .menu{
+      background-color: grey;
+    }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: purple;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle, 
+  .site-title{
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+   
+  
