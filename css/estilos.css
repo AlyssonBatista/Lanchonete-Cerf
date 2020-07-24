@@ -4,4 +4,14 @@
   right: 650px;
  }
 
+.produto img{
+    width: 400px;
+    height: 200px;
+    margin-top: 10px;
+}
+.produto li {
+    display: inline-block;
+    
+}
+
  
