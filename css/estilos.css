@@ -1,23 +1,28 @@
 .cabecalho {
     padding-left: 20px;
 }
+.navegacao img {
+    width: 950px;
+    margin: 0 auto;
+ }
 nav ul{
     position: absolute;
     top: 110px;
     right: 0;
 } 
 .produto li {
-    display: inline-block;
+    display: block;
+    
 }
 
 .produto img {
     width: 400px;
     height: 200px;
     margin-top: 10px;
+    
 }
 .produto p {
     text-align: center;
-    fo
 }
 .icone {
   position: fixed; 
