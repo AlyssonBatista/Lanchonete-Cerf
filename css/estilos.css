@@ -1,17 +1,27 @@
- .icone {
-  position: fixed; 
-  bottom: 25px; 
-  right: 650px;
- }
+.cabecalho {
+    padding-left: 20px;
+}
+nav ul{
+    position: absolute;
+    top: 110px;
+    right: 0;
+} 
+.produto li {
+    display: inline-block;
+}
 
-.produto img{
+.produto img {
     width: 400px;
     height: 200px;
     margin-top: 10px;
 }
-.produto li {
-    display: inline-block;
-    
+.produto p {
+    text-align: center;
+    fo
 }
+.icone {
+  position: fixed; 
+  bottom: 25px; 
+  right: 650px;
+ } 
 
- 
